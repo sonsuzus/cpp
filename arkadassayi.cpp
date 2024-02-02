@@ -17,15 +17,11 @@ int main()
 	{
 		cp=carptopla(i);
 		if(cp>i)
-		{		
-		
-			
+		{			
 			if(i==carptopla(cp) && i!=cp)
 			{
 				printf("%d - %d \n",i,cp);
-			}
-			
-			
+			}			
 		}
 	}
 	return 0;
