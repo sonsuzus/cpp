@@ -24,7 +24,7 @@
 
 #include <stdio.h>
 
-int main(int argc, char **argv)
+int main(void)
 {
 	printf("ufuk");
 	return 0;
