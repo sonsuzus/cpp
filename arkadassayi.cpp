@@ -18,7 +18,7 @@ int main()
 		cp=carptopla(i);
 		if(cp>i)
 		{			
-			if(i==carptopla(cp) && i!=cp)
+			if(i==carptopla(cp))
 			{
 				printf("%d - %d \n",i,cp);
 			}			
