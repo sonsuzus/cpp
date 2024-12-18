@@ -1,5 +1,10 @@
 #include<stdio.h>
 
+//collatz teoremi
+//100e kadar olan sayıların collatz teoremine göre kaç adımda 1e ulaştığını bulan program
+
+
+
 int main(void)
 {
     int x=13,adet=0,sayi;
