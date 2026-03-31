@@ -1,4 +1,4 @@
-'#include <stdio.h>
+#include <stdio.h>
 
 // Function to check if a number is prime
 int is_prime(int num) {
@@ -18,4 +18,4 @@ int main() {
     }
     printf("\n");
     return 0;
-}'
+}
