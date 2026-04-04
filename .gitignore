@@ -1,2 +1,121 @@
 output/
 .vscode/
+
+# Compiled object files
+*.o
+*.obj
+*.ko
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+*.bin
+*.hex
+
+# Static libraries
+*.a
+*.lib
+
+# Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Debugging symbols
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# Build directories
+build/
+Build/
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+dist/
+bin/
+lib/
+
+# CMake
+CMakeCache.txt
+CMakeUserPresets.json
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.user
+*.config
+*.creator
+
+# Compiler output
+*.log
+*.clang-format
+compile_commands.json
+
+# Dependencies
+*.d
+*.depend
+
+# Temporary files
+*.tmp
+*.bak
+*.rej
+*.orig
+
+# OS files
+.DS_Store
+Thumbs.db
+.directory
+
+# Visual Studio
+.vs/
+.sln
+Debug/
+Release/
+x64/
+x86/
+*.vcxproj.user
+*.vcxproj.filters
+
+# Code::Blocks
+*.cbp
+*.depend
+*.layout
+*.o.d
+
+# CLion
+.cmake-build-default/
+
+# Qt
+*.pro.user
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# GCC Coverage
+*.gcno
+*.gcda
+*.gcov
+
+# Ninja
+.ninja_log
+.ninja_deps
+
+# Misc
+*.core
+vgcore.*
+perf.data
+perf.data.old
