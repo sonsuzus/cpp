@@ -7,5 +7,5 @@ int main(void)
     printf("%d, ",i);
     i++;
     if(i<31) goto dongu;
-    return 0;
+    return 1;
 }
